@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/choucisan/nab_games"><img src="https://img.shields.io/badge/GitHub-NBA_Dataset-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://github.com/choucisan/nba_games"><img src="https://img.shields.io/badge/GitHub-NBA_Dataset-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://huggingface.co/datasets/choucsan/NBA_Games"><img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Dataset-yellow?style=for-the-badge" alt="Hugging Face"></a>
   <a href="https://choucisan.github.io/collections/nba_games"><img src="https://img.shields.io/badge/Blog-Post-blue?style=for-the-badge" alt="Blog"></a>
   <a href="https://choosealicense.com/licenses/mit"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
